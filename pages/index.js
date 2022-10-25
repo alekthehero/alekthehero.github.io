@@ -126,9 +126,6 @@ export default function Home() {
             <div>
               <Image src={web5}/>
             </div>
-            <div>
-              <Image src={web6}/>
-            </div>
           </div>
         </section>
 
